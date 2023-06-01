@@ -10,5 +10,5 @@ managedNodeGroups:
   - name: primary
     instanceType: t2.small
     minSize: 3
-    maxSize: 7
+    maxSize: 4
     spot: true
